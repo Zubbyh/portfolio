@@ -1,0 +1,48 @@
+.menu{
+    text-align: center;
+    margin-top: 15px;
+}
+.menu > a:hover{
+    background-color: blanchedalmond;
+    color: gold;
+}
+.menu > a{
+    margin-left: 14px;
+    text-decoration: none;
+}
+h1{
+    color: white
+}
+.h2>span{
+    color: brown;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.aboutme{
+    margin-top:20%;
+    margin-left: 20%;
+    
+}
+.box{
+    height: 20px;
+    width: 60px;
+    background-color: gray;
+    border: 1px solid skyblue;
+    margin-top: 15px;
+}
+.mypic{
+    margin-top: -25%;
+    margin-left: 50%;
+}
+body{
+    background-color:palevioletred
+}
+span{
+    color: skyblue
+}
+a{
+    color: skyblue;
+}
+
